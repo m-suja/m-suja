@@ -3,13 +3,14 @@
 ## 📊 Data Analyst | SQL | Python | Tableau | Power BI | Statistics
 
 🔍 Passionate about **turning raw data into valuable insights**!  
-📈 Aspiring **Data Analyst** eager to make data-driven decisions.  
+📈 **Transitioning from Project Management in IT consulting & startups to Data Analytics**.    
 🎯 Exploring **SQL, Python, Power BI, Tableau, and Machine Learning**.  
 
 ---
 
 ## 🚀 **About Me**
 - 🏡 Based in **Vienna, Austria**, open to **remote** or **Europe-based roles**.
+- 💼 Over **7 years of experience in Business Development, Digital Marketing and Project Management**.
 - 📚 Currently **upskilling in SQL, Python, Tableau, and Data Analytics**.
 - 🛠️ Working on **real-world data projects** to boost my analytical skills.
 - 🎯 **Looking for an entry-level Data Analyst role** to apply my skills!
