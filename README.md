@@ -36,7 +36,7 @@
 | 💳 **Customer Segmentation (RFM Analysis)** | SQL, Tableau | Used **Recency-Frequency-Monetary (RFM) model** to segment customers. |
 | ❤️ **Cardiovascular Disease Prediction** | Python, ML, Logistic Regression | Built a **predictive model** for **heart disease risk** using medical data. |
 
-📌 Check out my **full project portfolio** [here](https://github.com/m-suja).
+📌 Check out my **full project portfolio** [here](https://github.com/m-suja/Turing-Repository).
 
 ---
 
